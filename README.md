@@ -1,4 +1,4 @@
-[GITHUB-VTP-Mic-NOTICE.md](https://github.com/user-attachments/files/33030271/GITHUB-VTP-Mic-NOTICE.md)
+
 # VTP-Mic
 VTP-Mic: your Android phone as a wireless microphone for Voice Typer Pro
 ---
