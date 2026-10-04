@@ -1,5 +1,5 @@
+# دانلود نسخه ویندوز https://github.com/ElandraLabs/VoiceTyperPro-Updates/tree/main
 
-# VTP-Mic
 VTP-Mic: your Android phone as a wireless microphone for Voice Typer Pro
 ---
 
